@@ -1,16 +1,24 @@
-### Hi there 👋
+## Introduction
+Hello there.
 
-<!--
-**OrangePurgatory/OrangePurgatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max and currently 16 years old.
 
-Here are some ideas to get you started:
+This is my personal and school account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+School programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik/)
+
+### Languages
+
+- German  | (native)
+- English | (C2)
+
+## Projects
+
+### Currently working on
+- [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)    | (95% done) 
+
+### Finished
+None yet
+
+### Future / Ideas
+None
