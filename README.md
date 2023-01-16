@@ -15,10 +15,11 @@ School programming group: [LoMaTiInformatik](https://github.com/LoMaTiInformatik
 ## Projects
 
 ### Currently working on
-- [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)    | (95% done) 
+- [A school buddy which is able to read you the current timetable](https://github.com/LoMaTiInformatik/SchoolBuddy)
+- Private discord bot project
 
 ### Finished
-None yet
+- [Turning a common boxfan into a smart home fan](https://github.com/LoMaTiInformatik/Smarthome_Ventilator/)
 
 ### Future / Ideas
-None
+None yet
