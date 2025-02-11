@@ -1,7 +1,7 @@
 ## Introduction
 Hello there.
 
-I'm Max and currently 16 years old.
+I'm Max and currently 18 years old.
 
 This is my personal and school account.
 
